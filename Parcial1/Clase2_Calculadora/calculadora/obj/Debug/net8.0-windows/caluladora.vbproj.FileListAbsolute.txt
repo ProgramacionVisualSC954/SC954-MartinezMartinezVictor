@@ -1,0 +1,16 @@
+C:\Users\vick-\source\repos\caluladora\caluladora\bin\Debug\net8.0-windows\caluladora.exe
+C:\Users\vick-\source\repos\caluladora\caluladora\bin\Debug\net8.0-windows\caluladora.deps.json
+C:\Users\vick-\source\repos\caluladora\caluladora\bin\Debug\net8.0-windows\caluladora.runtimeconfig.json
+C:\Users\vick-\source\repos\caluladora\caluladora\bin\Debug\net8.0-windows\caluladora.dll
+C:\Users\vick-\source\repos\caluladora\caluladora\bin\Debug\net8.0-windows\caluladora.pdb
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.Form1.resources
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.vbproj.GenerateResource.cache
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.AssemblyInfoInputs.cache
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.AssemblyInfo.vb
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.vbproj.CoreCompileInputs.cache
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.dll
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\refint\caluladora.dll
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.pdb
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\caluladora.genruntimeconfig.cache
+C:\Users\vick-\source\repos\caluladora\caluladora\obj\Debug\net8.0-windows\ref\caluladora.dll
